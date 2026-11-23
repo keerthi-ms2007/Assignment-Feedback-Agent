@@ -1,0 +1,4 @@
+submission_id,assignment_id,assignment_title,student_id,submission_text,status,score
+SUB001,A001,Essay on AI,S001,Artificial Intelligence is transforming education by providing personalized learning.,SUBMITTED,0
+SUB002,A001,Essay on AI,S002,AI helps teachers to grade faster and give feedback to students.,SUBMITTED,0
+SUB003,A002,Python Project,S003,Python is a powerful language used for data analysis and web development.,SUBMITTED,0

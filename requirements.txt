@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+reportlab
+python-docx
+PyMuPDF
+PyPDF2
+sqlalchemy
+openai
+langchain
+langchain-openai
